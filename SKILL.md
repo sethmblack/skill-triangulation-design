@@ -3,8 +3,8 @@ name: triangulation-design
 description: Identify and design for triangulation—the external stimuli that bring strangers together and prompt social interaction.
 license: MIT
 metadata:
+  version: 1.0.5225
   author: sethmblack
-  version: 1.0.5224
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - triangulation-design
